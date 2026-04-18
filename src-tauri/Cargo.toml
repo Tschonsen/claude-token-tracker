@@ -1,10 +1,10 @@
 [package]
 name = "claude-token-tracker"
 version = "0.1.0"
-description = "Claude Token Tracker"
-authors = ["you"]
-license = ""
-repository = ""
+description = "Desktop app for tracking Claude API token usage, cost, and patterns (Tauri + React)"
+authors = ["Tschonsen"]
+license = "MIT"
+repository = "https://github.com/Tschonsen/claude-token-tracker"
 edition = "2021"
 rust-version = "1.77.2"
 
